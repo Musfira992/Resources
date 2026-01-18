@@ -2,7 +2,7 @@
 ### About: 
 
 
-1. List of Interesting People in Bioinformatics
+1. [List of Interesting People in Bioinformatics](https://github.com/Musfira992/Awesome-Lists/blob/main/awesome-people.md)
 2. [List of Interesting Datasets](https://github.com/Musfira992/Awesome-Lists/blob/main/Awesome-Datasets.md)
 3. List of interesting Papers
 4. List of interesting Projects
