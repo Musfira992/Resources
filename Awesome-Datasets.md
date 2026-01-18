@@ -6,3 +6,5 @@
 - [Fred Hutchinson Cancer Center](https://github.com/jtleek/data)
 
 - [MIMIC-IV](https://physionet.org/content/mimiciv/3.1/)
+
+- [DIY Transcriptomics](https://drive.google.com/drive/folders/1sEk1od1MJKLjqyCExYyfHc0n7DAIy_x7) 
