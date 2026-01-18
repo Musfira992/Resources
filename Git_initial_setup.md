@@ -64,3 +64,10 @@ cd path/to/your/project
 git init
 ```
 This creates a .git folder — Git is now tracking this directory.
+
+
+### Debug - Extra command
+
+```
+git remote set-url origin git@github.com:username/repo-name.git
+```
